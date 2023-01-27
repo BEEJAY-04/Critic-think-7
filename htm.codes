@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href=styles4.css>
+</head>
+<body>
+<nav>
+<a href="/home/"><fontsize="6">Home</font></a>|
+<a href="/news/"><fontsize="6">News</font></a>|
+<a href="/contact/"><fontsize="6">Contact</font></a>|
+<a href="/about/"><fontsize="6">About</font></a>|
+</nav>
+<h1>This is a Text-based Navigation Bar</h1>
+</body>
+</html>
